@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ExampleTest
+
+  Created by Alfa on 1/15/20.
+  Copyright © 2020 Alfa. All rights reserved.
+*/
+
+"FirstString" = "first string";
+"SecondString" = "second string";
